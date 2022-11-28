@@ -1,3 +1,4 @@
 Nama : I Gede Made Ary Perdana Widnyana
 Stack : Frontend
 Hobi : Basket Ball
+Deskripsi: Saya suka programing karena dari smk saya sudah mulai belajar ngoding awal - awal memang seperti gak suka namu lama - lama ketika bisa menyelesaikan error atau project menjadi senang dan semangat buat ngoding
